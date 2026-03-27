@@ -1,8 +1,6 @@
-Netflix Financial Analysis
+Netflix-Financial-Analysis
 
 Portfolio project analyzing Netflix financial statements and stock performance (2022–2025) with key ratios, cashflow metrics, and visualizations.
-
-Project Overview
 
 This project demonstrates a comprehensive financial and stock analysis of Netflix (NFLX) using Python and pandas in Google Colab. The analysis includes:
 
@@ -33,10 +31,6 @@ Debt-to-Equity Ratio = Total Liabilities / Shareholder Equity
 Debt Ratio = Total Liabilities / Total Assets
 Cash Flow Metrics
 Free Cash Flow (FCF) = Operating Cash Flow – Capital Expenditure
-CFO to Net Income = Operating Cash Flow / Net Income
-Stock Analysis
-Daily Returns = Percent change of stock close price
-Annual Returns = Aggregated yearly stock performance
 Insights from Analysis
 Profitability Trends
 Netflix’s net profit margin and EBITDA margin have been increasing (2022–2025), indicating improved operational efficiency.
@@ -62,6 +56,17 @@ Leverage ratios over time (Debt-to-Equity, Debt Ratio)
 Cash flow metrics over time (Free Cash Flow, CFO to Net Income)
 Stock daily and annual returns (bar charts and line plots)
 Skills Demonstrated
+Python & pandas for data cleaning, transformation, and analysis
+Financial analysis concepts and ratio calculations
+Data visualization and storytelling using matplotlib
+How to Run
+Open this notebook in Google Colab.
+Upload the CSV files for Netflix financials:
+NFLX_income.csv
+NFLX_balance.csv
+NFLX_cashflow.csv
+NFLX_stock_history.csv
+Run all cells sequentially to reproduce the analysis and visualizations.
 Python & pandas for data cleaning, transformation, and analysis
 Financial analysis concepts and ratio calculations
 Data visualization and storytelling using matplotlib
