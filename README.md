@@ -20,11 +20,17 @@ Stock Price History: Open, high, low, close, volume
 Note: Years with incomplete data (2021) were excluded from the analysis.
 
 Key Financial Metrics Calculated
+
 Profitability Ratios
+
 Net Profit Margin = Net Income / Total Revenue
+
 EBITDA Margin = EBITDA / Total Revenue
+
 Return on Assets (ROA) = Net Income / Total Assets
+
 Return on Equity (ROE) = Net Income / Shareholder Equity
+
 Leverage & Liquidity
 Current Ratio = Current Assets / Current Liabilities
 Debt-to-Equity Ratio = Total Liabilities / Shareholder Equity
