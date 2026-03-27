@@ -3,7 +3,7 @@ Portfolio project analyzing Netflix financial statements and stock performance (
 
 This project demonstrates a comprehensive financial and stock analysis of Netflix (NFLX) using Python and pandas in Google Colab. The analysis includes:
 
-  -Cleaning and transforming income statement, balance sheet, and cashflow CSVs
+     -Cleaning and transforming income statement, balance sheet, and cashflow CSVs
   -Calculating key financial ratios for profitability, leverage, liquidity, and cash flow
   -Creating visualizations for insights into financial trends
   -Performing data checks and validation to ensure data integrity
