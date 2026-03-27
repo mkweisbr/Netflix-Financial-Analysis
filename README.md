@@ -45,23 +45,24 @@ Free Cash Flow (FCF) = Operating Cash Flow – Capital Expenditure
 
 Insights from Analysis
 
-Profitability Trends
+Profitability Trends -
 Netflix’s net profit margin and EBITDA margin have been increasing (2022–2025), indicating improved operational efficiency.
 ROA and ROE trends show the company is generating more profit per unit of assets and equity.
 
-Leverage and Liquidity
+Leverage and Liquidity - 
 Debt-to-equity and debt ratio are gradually declining, signaling reduced leverage.
 Current ratio remains stable above 1, showing adequate liquidity to cover short-term obligations.
 
-Cash Flow Analysis
+Cash Flow Analysis -
 Free cash flow has increased significantly, consistent with growing profitability.
 CFO-to-net-income ratio indicates strong operational cash conversion.
 
-Stock Performance
+Stock Performance -
 Daily and annual stock returns were analyzed and compared to financial trends.
 Visualizations show the correlation between financial performance and stock growth.
 
 Technical Highlights
+
 Data cleaning, transposing, and sorting of multiple CSVs
 Handling missing values (NaNs) and aligning financial statements with stock data
 Calculation of financial ratios and cash flow metrics
@@ -69,6 +70,7 @@ Generating colorful, professional plots using matplotlib and pandas
 Performing data sanity checks to ensure internal consistency
 
 Visualizations Included
+
 Profitability ratios over time (Net Profit Margin, EBITDA Margin, ROA, ROE)
 Leverage ratios over time (Debt-to-Equity, Debt Ratio)
 Cash flow metrics over time (Free Cash Flow, CFO to Net Income)
